@@ -1,0 +1,6 @@
+{
+  "name": "Mi Checador - Control de Asistencia",
+  "description": "Aplicación móvil y panel administrativo de control de asistencia laboral con geolocalización, checado remoto y gestión de jornadas.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
